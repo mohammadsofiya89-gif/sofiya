@@ -1,3 +1,3 @@
 # sofiya
 This is my first Git Repository.
-author - sofiya
+author - sofiya addie
